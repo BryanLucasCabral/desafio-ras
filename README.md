@@ -39,7 +39,7 @@ Este projeto tem como objetivo fornecer uma API robusta para gerenciar **cliente
 ## ▶️ Como Rodar o Projeto
 
 1. Ter o **Java 17** e o **Maven** instalados
-2. Ter o **PostgreSQL** rodando e criar um banco de dados (ex: `gestao_contas`)
+2. Ter o **PostgreSQL** rodando e criar um banco de dados desafio
 3. Clonar o repositório:
    ```bash
    git clone https://github.com/BryanLucasCabral/desafio-ras.git
